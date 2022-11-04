@@ -96,7 +96,6 @@
                 else
                 {
                     Console.WriteLine("Documento momentaneamente non disponibile premi invio uscire");
-                    Console.Read();
                     return;
                 }
 
