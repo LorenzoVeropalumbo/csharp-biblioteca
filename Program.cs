@@ -9,8 +9,6 @@ Bilblioteca.GenerateUser();
 bool loop = true;
 while (loop)
 {
-    //Console.WriteLine("Il Tuo Credito è di : " + credito + "gettoni");
-    //Chiedo all'utente cosa vuole fare
     Console.WriteLine("Scegli un opzione");
     Console.WriteLine("1) Effettua un prestito");
     Console.WriteLine("2) Mostra i documenti");
